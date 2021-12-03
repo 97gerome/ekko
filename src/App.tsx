@@ -1,10 +1,10 @@
-import React from 'react';
+import WelcomeScreen from "./modules/WelcomeScreen";
 
 const App = () => {
     return (
-        <div>
-            ekko
-        </div>
+        <>
+            <WelcomeScreen />
+        </>
     )
 }
 
